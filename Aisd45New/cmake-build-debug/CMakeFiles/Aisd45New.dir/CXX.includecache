@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fedor/CLionProjects/Aisd45New/main.cpp
+stack
+-
+vector
+C:/Users/fedor/CLionProjects/Aisd45New/vector
+iostream
+C:/Users/fedor/CLionProjects/Aisd45New/iostream
+fstream
+C:/Users/fedor/CLionProjects/Aisd45New/fstream
+queue
+C:/Users/fedor/CLionProjects/Aisd45New/queue
+map
+C:/Users/fedor/CLionProjects/Aisd45New/map
+

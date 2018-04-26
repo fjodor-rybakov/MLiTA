@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fedor/CLionProjects/Aisd53/main.cpp
+cmath
+-
+iostream
+C:/Users/fedor/CLionProjects/Aisd53/iostream
+fstream
+C:/Users/fedor/CLionProjects/Aisd53/fstream
+
